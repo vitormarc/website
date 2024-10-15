@@ -1,0 +1,15 @@
+{
+  "name": "sem-perrengues",
+  "version": "1.0.0",
+  "description": "Strada Driving School website",
+  "main": "index.html",
+  "scripts": {
+    "css": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [],
+  "author": "Alessandro Lima de Miranda",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
